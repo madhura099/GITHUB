@@ -1,7 +1,7 @@
 "use strict";
 
 // Same keys as main.js so both pages share data
-const STORAGE = { user: "agricare_user", language: "agricare_language" };
+const STORAGE = { user: "agricare_user", language: "agricare_language" };  
 
 const $ = id => document.getElementById(id);
 
